@@ -1,0 +1,1 @@
+import{t as e}from"./vidstack-BZ7BOaXb-BMs8E8qV.js";export{e as VideoProvider};
